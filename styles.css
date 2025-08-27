@@ -138,7 +138,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color:680f76;
 }
 .menu-acessibilidade{
     position: fixed;
@@ -186,7 +186,7 @@ h2 {
 .alto-contraste .btn-primary{
     background-color: var(--alto-contraste-link);
     color: var(--alto-contraste-fundo);
-    color: 681189;
+    
 }
 
 .alto-contraste #tropicalia {
